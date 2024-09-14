@@ -1,2 +1,2 @@
 this is a new feature called feat-3
-thia is done on dev changes
+this is done on dev changes
